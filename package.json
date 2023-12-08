@@ -4,6 +4,7 @@
   "description": "前端界的好文精读，每周更新！",
   "main": "index.js",
   "scripts": {
+    "start": "node アプリ.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/dt-fe/weekly#readme",
   "dependencies": {
     "esm": "^3.2.25",
+    "express": "^4.18.2",
     "husky": "^3.0.4",
     "lint-md-cli": "^0.1.1"
   },
